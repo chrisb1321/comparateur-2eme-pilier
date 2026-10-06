@@ -6,3 +6,4 @@ dist
 _source
 *.log
 *.tsbuildinfo
+.vercel
